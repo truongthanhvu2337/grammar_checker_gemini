@@ -3,7 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-
+.env
 # Ignore bin/Debug directory
 /bin/Debug/
 /obj
