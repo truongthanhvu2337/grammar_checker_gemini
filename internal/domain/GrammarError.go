@@ -1,3 +1,6 @@
+package domain
+
+import "time"
 
 type GrammarError struct {
 	ID           int       `json:"id"`
